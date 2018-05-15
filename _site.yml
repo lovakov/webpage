@@ -1,0 +1,11 @@
+name: mywebpage
+author: Andrey Lovakov
+output_dir: docs
+output:
+  html_document:
+    theme: flatly
+    lib_dir: site_libs
+    self_contained: no
+navbar:
+  title: Andrey Lovakov
+
