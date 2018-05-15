@@ -5,3 +5,5 @@ title: "Andrey Lovakov"
 I'm a researcher at Center for Institutional Studies and a lecturer at the School of Psychology, Higher School of Economics Moscow, Russia.
 
 My research focused on academic profession, academic inbreeding, and research productivity.
+
+[My university page](https://www.hse.ru/en/staff/lovakov)
